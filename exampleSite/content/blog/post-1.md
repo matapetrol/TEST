@@ -41,6 +41,8 @@ Escribiendo desde RStudio
 
 ##### Emphasis
 
+bla bla bla bla bla
+
 Emphasis, aka italics, with *asterisks* or *underscores*.
 
 Strong emphasis, aka bold, with **asterisks** or **underscores**.
