@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/liva/examplesite/"
+baseURL = "https://matacarlos.com/"
 languageCode = "en-us"
 title = "Carlos Mata Blog"
 theme = "liva-hugo"
